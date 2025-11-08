@@ -1,4 +1,4 @@
-tb_file_name = tb_full_behavior
+tb_file_name = sap1_top_tb
 work_dir = ./cache
 
 run:
